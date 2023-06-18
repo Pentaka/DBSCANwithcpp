@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1682668519 source:e:\shun_\dbscan_alg\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<cmath>
+
